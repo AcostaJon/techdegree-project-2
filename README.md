@@ -1,2 +1,2 @@
 # techdegree-project-2
- my second techdegree project 
+ mobile-first responsive layout
